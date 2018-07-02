@@ -1,12 +1,12 @@
 # Chrome Emoji Tab
 >Enjoy hours of untamed *emoji* fun when you open a new Google Chrome tab.
 
-##Prerequsites
+## Prerequsites
 - Google Chrome
 - A pretty beefy CPU (to handle all of the emoji physics - *that's right, emoji physics*)
 - No will to live
 
-##Installation (IMPORTANT)
+## Installation (IMPORTANT)
 Here are the steps to install this exquisite piece of code:
 
 1. Download and extract the extension (you can just pull this repo).
@@ -16,12 +16,12 @@ Here are the steps to install this exquisite piece of code:
 5. Enable 'developer mode' in the top right-hand corner.
 6. Click 'load unpacked extension' and navigate to the location extracted folder.
 
-##How to use
+## How to use
 1. Open a new tab.
 2. Immediately regret installing.
 3. Uninstall it.
 
-##Credits
+## Credits
 - [Materialize](https://materializecss.com/)
 - [jQuery](https://jquery.com/)
 - [matter.js](http://brm.io/matter-js/)
@@ -30,4 +30,4 @@ Here are the steps to install this exquisite piece of code:
 
 Licensed under **MIT**.
 
-######Please help me
+###### Please help me

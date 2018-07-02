@@ -10,8 +10,8 @@
 Here are the steps to install this exquisite piece of code:
 
 1. Download and extract the extension (you can just pull this repo).
-2. Download the emojis using the link provided in the `emoji/emojis.txt` file.
-3. Extract all the files into the same `emoji/` directory.
+2. Download the emojis [here](https://drive.google.com/file/d/1HK0GhpSoJ3a7ILALX6ZW2cgWrFFzUSQu/view).
+3. Create a folder names `emoji` in the base directory, then extract all the emoji .png files into the `emoji` directory.
 4. Navigate to your [extensions page](chrome://extensions/).
 5. Enable 'developer mode' in the top right-hand corner.
 6. Click 'load unpacked extension' and navigate to the location extracted folder.

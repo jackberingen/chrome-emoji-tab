@@ -4,7 +4,6 @@
 ## Prerequsites
 - Google Chrome
 - A pretty beefy CPU (to handle all of the emoji physics - *that's right, emoji physics*)
-- No will to live
 
 ## Installation (IMPORTANT)
 Here are the steps to install this exquisite piece of code:
@@ -19,7 +18,6 @@ Here are the steps to install this exquisite piece of code:
 ## How to use
 1. Open a new tab.
 2. Immediately regret installing.
-3. Uninstall it.
 
 ## Credits
 - [Materialize](https://materializecss.com/)
@@ -29,5 +27,3 @@ Here are the steps to install this exquisite piece of code:
 - Me for making it.
 
 Licensed under **MIT**.
-
-###### Please help me

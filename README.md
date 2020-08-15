@@ -24,6 +24,5 @@ Here are the steps to install this exquisite piece of code:
 - [jQuery](https://jquery.com/)
 - [matter.js](http://brm.io/matter-js/)
 - Emojis sourced from [here](https://forum.xda-developers.com/android/themes/substratum-whatsapp-emoji-pack-emojione-t3663890).
-- Me for making it.
 
 Licensed under **MIT**.
